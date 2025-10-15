@@ -9,7 +9,7 @@ function love.conf(t)
     t.audio.mixwithsystem = true       
 
     t.window.title = " Don't touch me "   
-    t.author = "Moises Perez" 
+    t.author = "flenryk" 
     t.window.icon = 'images/icon.png'
     t.window.width = 500            
     t.window.height = 700           
